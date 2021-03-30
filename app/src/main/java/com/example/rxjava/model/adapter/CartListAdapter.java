@@ -12,7 +12,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.ycsoft.commonlib.util.ToastUtil;
+import hrh.commonlib.commonlib.util.ToastUtil;
 import com.ycsoft.smartbox.newstore.R;
 import com.ycsoft.smartbox.newstore.model.GoodsBean;
 
