@@ -1,0 +1,4 @@
+include ':commonlibB'
+include ':app'
+project(':commonlibB').projectDir = new File(rootDir, 'commonlib/')
+rootProject.name = "RXjava"
